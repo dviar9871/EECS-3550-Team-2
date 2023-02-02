@@ -6,3 +6,4 @@ Software used for managing workload: github, Trello/Smart Sheet
 Meeting Thursday after database
 
 #### Order of features
+Looking over the weekend
