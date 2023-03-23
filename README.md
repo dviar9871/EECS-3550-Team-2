@@ -7,3 +7,5 @@ Meeting Thursday after database
 
 #### Order of features
 Looking over the weekend
+
+C# Excel Library: https://github.com/closedxml/closedxml/wiki/Finding-and-extracting-the-data
